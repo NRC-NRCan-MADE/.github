@@ -17,3 +17,9 @@ Repositories are to be categorized as development, production, or public. Before
 * **Production**: Private repo. Stable release that is ready to be shared with project members.
 * **Public**: Public repo. both parties have made consensual decision to publicize and have been approved for publication. 
 
+## Repository Creation
+Only the admin users hold the right to create a new repository. If you want to create a new repository, please get in touch with Mike or Keli. Contact information below.
+
+## Admin Users
+* NRCan: Michael Greenwood <michael.greenwood@nrcan-rncan.gc.ca>
+* NRC: Keli Chiu <keli.chiu@nrc-cnrc.gc.ca>
